@@ -61,4 +61,5 @@ The dataset includes the following features:
 The model successfully predicts customer spending with good accuracy. The most influential feature was found to be **Length of Membership**, indicating strong customer loyalty impacts revenue.
 
 ## 🤝 Contributions
+
 If you have suggestions to improve the model or enhance visualizations, feel free to contribute!
